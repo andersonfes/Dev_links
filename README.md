@@ -22,7 +22,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".git/Imagem-do-projeto.png" width="100%">
+  <img alt="projeto DevLinks" src=".gitHub/Imagem-do-projeto.png" width="100%">
 </p>
 ## 🚀 Tecnologias
 
