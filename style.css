@@ -56,6 +56,7 @@ body *{
   width: 112px;
   border-radius: 50%;
   border: 3px solid #0010f7;
+  transition: 0.4s;
 }
 
 #profile img:hover{
